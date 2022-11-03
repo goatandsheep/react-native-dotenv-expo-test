@@ -25,7 +25,8 @@
     "react-native-dotenv": "^3.4.0"
   },
   "resolutions": {
-    "@babel/core": "^7.19.0"
+    "@babel/core": "^7.19.0",
+    "babel-loader": "8.3.0"
   },
   "private": true
 }
