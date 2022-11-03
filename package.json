@@ -10,6 +10,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.13",
     "@expo/webpack-config": "^0.17.0",
     "expo": "~46.0.13",
     "expo-status-bar": "~1.4.0",
@@ -19,9 +20,12 @@
     "react-native-web": "~0.18.7"
   },
   "devDependencies": {
-    "@babel/core": "7.17.7",
-    "eas-cli": "^2.3.0",
+    "@babel/core": "7.19.0",
+    "eas-cli": "^2.6.0",
     "react-native-dotenv": "^3.4.0"
+  },
+  "resolutions": {
+    "@babel/core": "^7.19.0"
   },
   "private": true
 }
