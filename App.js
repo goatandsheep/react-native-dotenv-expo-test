@@ -5,7 +5,7 @@ import {APP_LOGGING} from 'react-native-dotenv';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app! {APP_LOGGING}.</Text>
+      <Text>Open up App.js to start workin g on your app! {APP_LOGGING}.</Text>
       <StatusBar style="auto" />
     </View>
   );

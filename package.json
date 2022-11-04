@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "7.19.0",
     "eas-cli": "^2.6.0",
-    "react-native-dotenv": "^3.4.0"
+    "react-native-dotenv": "^3.4.1"
   },
   "resolutions": {
     "@babel/core": "^7.19.0",
