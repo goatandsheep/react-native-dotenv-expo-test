@@ -6987,7 +6987,7 @@ __metadata:
 
 "fsevents@patch:fsevents@^2.3.2#~builtin<compat/fsevents>, fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -7462,9 +7462,9 @@ __metadata:
   linkType: hard
 
 "http-cache-semantics@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "http-cache-semantics@npm:4.1.0"
-  checksum: 974de94a81c5474be07f269f9fd8383e92ebb5a448208223bfb39e172a9dbc26feff250192ecc23b9593b3f92098e010406b0f24bd4d588d631f80214648ed42
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: 83ac0bc60b17a3a36f9953e7be55e5c8f41acc61b22583060e8dedc9dd5e3607c823a88d0926f9150e571f90946835c7fe150732801010845c72cd8bbff1a236
   languageName: node
   linkType: hard
 
@@ -11609,7 +11609,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.13.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
@@ -11622,7 +11622,7 @@ __metadata:
 
 "resolve@patch:resolve@~1.7.1#~builtin<compat/resolve>":
   version: 1.7.1
-  resolution: "resolve@patch:resolve@npm%3A1.7.1#~builtin<compat/resolve>::version=1.7.1&hash=3bafbf"
+  resolution: "resolve@patch:resolve@npm%3A1.7.1#~builtin<compat/resolve>::version=1.7.1&hash=07638b"
   dependencies:
     path-parse: ^1.0.5
   checksum: c2a6f0e3856ac1ddc8297091c20ca6c36d99bf289ddea366c46bd2a7ed8b31075c7f9d01ff5d390ebed1fe41b9fabe57a79ae087992ba92e3592f0c3be07c1ac
