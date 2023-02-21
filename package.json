@@ -5,6 +5,7 @@
   "scripts": {
     "start": "expo start --clear",
     "start:npx": "APP_ENV=production&& npx expo start --clear",
+    "start:npx-dev": "NODE_ENV=development&& npx expo start --clear",
     "build": "eas build",
     "android": "expo start --android",
     "ios": "expo start --ios",
